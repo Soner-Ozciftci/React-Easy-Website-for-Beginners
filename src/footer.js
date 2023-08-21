@@ -11,7 +11,7 @@ export default function footer() {
     <div className='soci'><FaTwitter/></div>
 </div>
 <div className='copyright'>
-    Copyright &copy; 2023 Soner Ozciftci
+    Copyright &copy; 2023,Soner Ozciftci
 </div>
     </div>
     </footer>
